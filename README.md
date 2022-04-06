@@ -3,3 +3,4 @@
 - chicken breast
 - onions
 - garlic
+- hot chocolate
