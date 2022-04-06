@@ -1,0 +1,5 @@
+- eggs
+- peppers
+- chicken breast
+- onions
+- garlic
